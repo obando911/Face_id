@@ -1,0 +1,6 @@
+flask
+tf-keras
+tensorflow
+pillow
+numpy
+pyopenssl
